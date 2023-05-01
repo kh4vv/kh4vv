@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris Hong - the real name: Kyun Woo Hong  👋
 Email: kh4vv@virginia.edu
 
-## A notable analytical Data Scientist with 4+ years of scientific research experience in US National Laboratories. Contributed to the Field Analytics Team with a record of successful design and implementation to deliver critical performance gains. Highly skilled in data visualization and analysis to obtain insights and drive strategic decisions. Looking to transition from academia and have a beneficial impact on the most critical challenges and opportunities, leveraging data and technology.
+#### A notable analytical Data Scientist with 4+ years of scientific research experience in US National Laboratories. Contributed to the Field Analytics Team with a record of successful design and implementation to deliver critical performance gains. Highly skilled in data visualization and analysis to obtain insights and drive strategic decisions. Looking to transition from academia and have a beneficial impact on the most critical challenges and opportunities, leveraging data and technology.
 
 - 🔭 I'm looking for a job (Software engineer or Data scientist)
 - 🌱 I’m currently learning many courses in data scientists (esp in ML) and full stack courses.
