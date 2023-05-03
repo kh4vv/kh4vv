@@ -6,7 +6,7 @@ Email: kh4vv@virginia.edu
 - 🔭 I'm looking for a job (Software engineer or Data scientist)
 - 🌱 I’m currently learning many courses in data scientists (esp in ML) and full stack courses.
 - 👯 I’m outgoing and ready to work with others. 
-- 🥅 New Grad 2023 Ph.D. program at [University of Virginia](http://www.phys.virginia.edu/)
+- 🥅 New Grad 2023 Ph.D. program at [University of Virginia](http://www.phys.virginia.edu/). [Thesis](https://libraetd.lib.virginia.edu/public_view/k643b211g)
 - ⚡ Fun fact: Let's play some starcraft II and pokemon Unite
 
 ### Connect with me:
